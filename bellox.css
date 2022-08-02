@@ -1,0 +1,40 @@
+
+
+table h2{
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    font-family: cursive;
+}
+.myDiv{
+    font-size: 30px;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(247, 248, 248);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+
+}
+
+th{
+    font-size: 30px;
+}
+.nav{
+    font-size: 30px;
+    f
+}
+
+
+table{
+    background-color: rgb(93, 145, 145);
+}
+
+.out{
+    height: 30px;
+  
+    font-size: 35px;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+}

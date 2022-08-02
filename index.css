@@ -1,0 +1,28 @@
+table th{
+background-color: aquamarine;
+height: 90px;
+font-size: 30px;
+font-family: consolas;
+}
+
+img{
+    width: 700px;
+    height: 400px;
+    align-items: center;
+    margin: auto;
+    margin-left: 120px;
+}
+
+
+.text{
+    border: none;
+    font-size: 35px;
+    width: 400px;
+    margin: auto;
+   
+    
+}
+
+table{
+    background-color: gray;
+}
